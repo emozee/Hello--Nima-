@@ -11,7 +11,11 @@ I am a passionate learner currently exploring the world of development and versi
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
 </p>
 
 ---
