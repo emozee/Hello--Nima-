@@ -24,5 +24,5 @@ I am a passionate learner currently exploring the world of development and versi
 ### 📫 Connect with me
 [Contact no: +975 77258430)
 
-! [Description of screenshort](./assets/index.html.png)
-! [Description of screenshort](./assets/style.css.png)
+![My Screenshot](assets/index.html.png)
+![My Screenshot](assets/style.css.png)
