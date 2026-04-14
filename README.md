@@ -1,5 +1,5 @@
-Name Nima
+Name: Nima
 
-Vertical IDK
+Vertical: IDK
 
-Hobby trying new things
+Hobby: Trying new things
