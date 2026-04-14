@@ -1,5 +1,25 @@
-Name: Nima
+# Hi, I'm Nima! 👋
 
-Vertical: IDK
+### 🚀 About Me
+I am a passionate learner currently exploring the world of development and version control. I love experimenting with new technologies and building clean, efficient projects.
 
-Hobby: Trying new things
+- **Vertical:** Web Development / Management 
+- **Hobby:** 🏋️‍♂️ Advanced Calisthenics & Bodyweight Training
+- **Current Focus:** Master Git & GitHub
+
+---
+
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,js" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+![Nima's GitHub stats](https://github.com/emozee/Hello--Nima-)
+
+---
+
+### 📫 Connect with me
+[Contact no: +975 77258430)
