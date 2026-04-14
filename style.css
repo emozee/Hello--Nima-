@@ -2,14 +2,14 @@
 body {
     margin: 0;
     padding: 0;
-    min-height: 100vh; /* Ensures it fills the whole screen height */
+    min-height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center; /* Centers the card vertically and horizontally */
+    justify-content: flex-start; /* Moves content from center to left */
+    align-items: center; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
-    /* Bhutan Flag Background - Transparent */
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), 
+    /* Keeping your Bhutan Flag Background */
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), 
                 url('https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg');
     background-size: cover;
     background-position: center;
