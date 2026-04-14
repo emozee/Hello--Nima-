@@ -37,7 +37,7 @@ h1 {
 }
 
 h1:hover {
-    animation: bounce 0.5s infinite;
+    animation: bounce 1.0s infinite;
 }
 
 @keyframes bounce {
