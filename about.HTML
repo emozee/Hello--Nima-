@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nima Yoezer | Profile</title>
+    <link id="theme-style" rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Nima Yoezer</h1>
+            <p class="subtitle">Manager & Aspiring Developer</p>
+        </header>
+
+        <button id="toggle-btn" onclick="toggleStyle()">Toggle Design: OFF</button>
+
+        <section class="about">
+            <h2>About Me</h2>
+            <p>I am a manager focused on organizational culture and team growth. Outside of the office, I am a dedicated practitioner of advanced calisthenics, working on mastering the planche and front lever.</p>
+        </section>
+
+        <section class="details">
+            <h2>Professional & Personal</h2>
+            <ul>
+                <li><strong>Current Focus:</strong> Selise Mini-Cohort (Full Stack Development)</li>
+                <li><strong>Projects:</strong> TrailBlazz Hiking Gear Rental</li>
+                <li><strong>Hobby:</strong> Bodyweight Strength Training</li>
+                <li><strong>Location:</strong> Bhutan 🇧🇹</li>
+            </ul>
+        </section>
+    </div>
+
+    <script>
+        function toggleStyle() {
+            var styleSheet = document.getElementById("theme-style");
+            var btn = document.getElementById("toggle-btn");
+            
+            if (styleSheet.getAttribute("href") == "style.css") {
+                styleSheet.setAttribute("href", ""); // Removes the CSS
+                btn.innerText = "Toggle Design: ON";
+            } else {
+                styleSheet.setAttribute("href", "style.css"); // Re-attaches the CSS
+                btn.innerText = "Toggle Design: OFF";
+            }
+        }
+    </script>
+</body>
+</html>
