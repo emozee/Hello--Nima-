@@ -24,6 +24,12 @@ I am a passionate learner currently exploring the world of development and versi
 ### 📫 Connect with me
 [Contact no: +975 77258430)
 
+h3 Firt Assignment
+<p align="left"> index.html screenshort
 ![My Screenshot](assets/index.html.png)
+</p>
 
+--
+<p align="left"> style.css screenshort
 ![My Screenshot](assets/style.css.png)
+</p>
