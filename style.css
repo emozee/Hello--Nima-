@@ -17,12 +17,12 @@ body {
 }
 
 .container {
-    background: rgba(255, 255, 255, 0.95); /* Slightly see-through card */
+    background: transparent; /* Removes the white card */
+    box-shadow: none;        /* Removes the shadow */
     padding: 40px;
-    border-radius: 20px;
-    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+    margin-left: 5%;         /* Adds a small professional gap from the left edge */
     max-width: 600px;
-    width: 90%; /* Makes it fit mobile and desktop browser windows */
+    width: 90%; 
     text-align: left;
 }
 
